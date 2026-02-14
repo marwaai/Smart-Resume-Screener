@@ -1,5 +1,5 @@
 
-# 🚀 Smart Resume Screener – Semantic AI Career Matcher
+# 🚀 Smart Resume Screener – Semantic AI Career Matcher (Flask APP)
 
 An end-to-end AI-powered resume screening system that goes beyond naive keyword matching.
 In this project, I built a semantic resume–job matching engine using modern NLP techniques to fairly and accurately evaluate candidates while eliminating common industry biases.
